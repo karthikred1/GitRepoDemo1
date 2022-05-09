@@ -3,5 +3,6 @@ class Test1 {
 		String str1 = "Test1";
     String str2 = "Test2";
 	String str3 = "Test3";
+		String str5 = "Test5";
 	}
 }
