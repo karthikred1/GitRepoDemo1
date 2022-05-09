@@ -4,5 +4,6 @@ class Test1 {
 		String str4 = "Test4";
     String str2 = "Test2";
 	String str3 = "Test3";
+		String str5 = "Test5";
 	}
 }
