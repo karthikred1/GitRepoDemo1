@@ -10,5 +10,6 @@ class Test1 {
 		String str10 = "Test10";
 		String str11 = "Test11";
 		String str12 = "Test12";
+		String str13 = "Test13";
 	}
 }
