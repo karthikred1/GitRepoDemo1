@@ -5,7 +5,7 @@
 
 	<groupId>com.in28minutes.springboot.rest.example</groupId>
 	<artifactId>spring-boot-2-rest-service-basic</artifactId>
-	<version>0.0.35-SNAPSHOT</version>
+	<version>0.0.37-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>spring-boot-2-rest-service</name>
@@ -37,6 +37,10 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa-1</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-data-jpa-2</artifactId>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
