@@ -5,11 +5,11 @@
 
 	<groupId>com.in28minutes.springboot.rest.example</groupId>
 	<artifactId>spring-boot-2-rest-service-basic</artifactId>
-	<version>0.0.4-SNAPSHOT</version>
+	<version>0.0.20-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>spring-boot-2-rest-service</name>
-	<description>Spring Boot 2 and REST - Sample Example Projects</description>
+	<description>Spring Boot 2 and REST - Example Project</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
